@@ -1,4 +1,4 @@
-# menu-hamb-rguer
+# menu-hamb-rguer ☰
 
 Como parte do aprendizado constante promovido pela ElasNaTech, consegui concluir um desafio empolgante. Durante essa experiência, pude aplicar meus conhecimentos em CSS, HTML e JavaScript para fortalecer e consolidar o que aprendi até agora.
 
@@ -6,3 +6,6 @@ O projeto consiste em uma página da web de design adaptável, onde se destaca a
 
 À medida que avanço em minha jornada de aprendizado com a ElasNaTech, estou empolgada para continuar enfrentando desafios semelhantes e constantemente ultrapassar meus limites na criação de soluções web eficazes e visualmente atraentes.
 
+![Imagem da versão para desktop](1.png)
+
+![imagem da versão mobile](2.png)
