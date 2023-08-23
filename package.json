@@ -1,0 +1,20 @@
+{
+  "name": "menu-hamb-rguer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiEl0503/menu-hamb-rguer.git"
+  },
+  "author": "Ninoska Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiEl0503/menu-hamb-rguer/issues"
+  },
+  "homepage": "https://github.com/NiEl0503/menu-hamb-rguer#readme"
+}
