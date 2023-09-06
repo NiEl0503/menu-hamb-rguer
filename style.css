@@ -50,14 +50,6 @@ ul {
     margin: 0;
 }
 
-.header-nav ul {
-    list-style-type: none;
-    padding: 0;
-    text-transform: uppercase;
-    letter-spacing: .2em;
-    font-size: .8em;
-}
-
 .header-nav a {
     color: orange;
     text-decoration: none;
